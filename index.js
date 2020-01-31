@@ -7,7 +7,7 @@ function handleClick(e) {
 
 /* End Given Code, don't edit above here...*/
 function displayMessage(msg) {
-  document.getElementById("greeting").textContent = msg;
+  document.getElementById("greeting").innerText = msg;
 }
 
 
