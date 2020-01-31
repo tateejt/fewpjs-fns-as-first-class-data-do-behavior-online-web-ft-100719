@@ -8,7 +8,7 @@ function handleClick(e) {
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
-function greet(string) {
+function greet(timeString) {
   const = 
 }
 /* Write your implementation of displayMessage() */
