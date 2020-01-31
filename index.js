@@ -14,7 +14,3 @@ function greet(timeString) {
   if ( hour > 17) return "Good Evening"
   return "Good Afternoon"
 }
-/* Write your implementation of displayMessage() */
-function displayMessage(msg) {
-  document.getElementById("greeting").textContent = msg;
-}
