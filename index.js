@@ -6,6 +6,9 @@ function handleClick(e) {
 }
 
 /* End Given Code, don't edit above here...*/
+function displayMessage(msg) {
+  document.getElementById("greeting").textContent = msg;
+}
 
 /* Write your implementation of greet() */
 function greet(timeString) {
