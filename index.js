@@ -11,7 +11,6 @@ function displayMessage(msg) {
 }
 
 
-
 /* Write your implementation of greet() */
 function greet(timeString) {
   const hour = parseInt(timeString, 10)
