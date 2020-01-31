@@ -9,6 +9,6 @@ function handleClick(e) {
 
 /* Write your implementation of greet() */
 function greet(timeString) {
-  const = hour
+  const = hour = para
 }
 /* Write your implementation of displayMessage() */
