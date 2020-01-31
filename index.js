@@ -12,17 +12,6 @@ function displayMessage(msg) {
 
 
 
-describe("displayMessage() function", () => {
-    it("updates the DOM with an appropriate message", () => {
-      let testContent = "TEST"
-      displayMessage(testContent)
-      let content = document.getElementById("greeting").innerText
-      expect(content).to.equal(testContent)
-    })
-
-
-
-
 /* Write your implementation of greet() */
 function greet(timeString) {
   const hour = parseInt(timeString, 10)
