@@ -15,3 +15,4 @@ function greet(timeString) {
   return "Good Afternoon"
 }
 /* Write your implementation of displayMessage() */
+function 
